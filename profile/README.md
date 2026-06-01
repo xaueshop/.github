@@ -29,6 +29,17 @@ XAUE turns gold into a **productive asset**. Every card is backed **1:1 by physi
 - 📈 **Yield-bearing** — gold that works while you hold it
 - 🎁 **Built for gifting** — branded cards your team or customers can claim in seconds
 
+## 🔓 Open Source
+
+XAUE Shop runs on open, verifiable on-chain infrastructure — every contract is published and verified on Sourcify.
+
+| Project | Description |
+|---------|-------------|
+| **[xaue-agent-router](https://github.com/xaueshop/xaue-agent-router)** | Permissionless UUPS router for XAUT → XAUE mint and async redemption. |
+| **[gold-token-distribution-vaults](https://github.com/xaueshop/gold-token-distribution-vaults)** | UUPS distribution vaults that pay out XAUT / XAUE for gift-card and reward flows. |
+
+Browse all repositories → [github.com/orgs/xaueshop/repositories](https://github.com/orgs/xaueshop/repositories)
+
 ## 🚀 Get Started
 
 Whether you're gifting gold to a team or claiming a card you received — start at **[xaue.com/shop](https://xaue.com/shop)**.
